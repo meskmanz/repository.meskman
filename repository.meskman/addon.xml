@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.meskman" name="Meskman_REpo" version="1.1" provider-name="meskmanz">
+<addon id="repository.meskman" name="Meskman's Add-on Repository" version="1.2" provider-name="meskmanz">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/meskmanz/repository.meskman/master/zips/addons.xml</info>
@@ -8,10 +8,10 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">Meskman's Repository</summary>
+        <summary lang="en">Meskman's Add-on Repository</summary>
         <summary lang="ru">Meskman Репозиторий</summary>
         <description lang="en">Here you can find Kodi addons made by https://github.com/meskmanz</description>
-        <description lang="ru">Коди дополнения сделанные на  https://github.com/meskmanz</description>
+        <description lang="ru">Коди дополнения сделанные на https://github.com/meskmanz</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
