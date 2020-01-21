@@ -9,8 +9,10 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Meskman_REpo</summary>
-        <description>DESCRIPTION OF YOUR REPO HERE</description>
+        <summary lang="en">Meskman's Repository</summary>
+        <summary lang="ru">Meskman Репозиторий</summary>
+        <description lang="en">Here you can find Kodi addons made by https://github.com/meskmanz</description>
+        <description lang="ru">Коди дополнения сделанные на  https://github.com/meskmanz</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
