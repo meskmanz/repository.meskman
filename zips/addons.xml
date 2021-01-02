@@ -22,7 +22,7 @@
     </extension>
 </addon>
 
-<addon id="service.edemtv.parser" name="Edem.tv Playlist Parser" version="1.0.4" provider-name="Meskman">
+<addon id="service.edemtv.parser" name="Edem.tv Playlist Parser" version="1.0.5" provider-name="Meskman">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
     </requires>
